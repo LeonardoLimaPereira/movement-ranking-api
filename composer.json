@@ -1,0 +1,9 @@
+{
+  "name": "leonardo/movement-ranking-api",
+  "description": "API de ranking de movimentos em PHP puro",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
